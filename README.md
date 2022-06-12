@@ -5,10 +5,9 @@ As of now I'm attending the Post-Graduation classes of ***Enterprise Data Scienc
 
 ##### Currently I code in ***Python***, ***R*** and ***VBA*** (mostly VBA for the last year for business purposes)
 
-##### During the past months I've learned how to programm in **SQL** and how to manage Relational and Non-Relational Databases
+##### During the past months I've learned how to program in ***SQL*** and how to manage Relational and Non-Relational Databases, hoping to add some projects regarding these subjects on here soon.
 
-
-
+#### I've been developing some projects on the Post-Graduation program using Clustering and Supervised algorithms for classification purposes that will be posted here as soon as they are concluded
 
 
 ##### Please take a look at some of the projects that I've placed below and feel free to reach my via my [LinkedIn](https://www.linkedin.com/in/guilhermepdfrias/) profile page.
