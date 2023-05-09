@@ -3,7 +3,7 @@
 ##### I'm Guilherme and I'm 26 years old. I'm graduated by the ***Universty of Coimbra*** and in 2020 concluded my ***MSc in Management of Services and Technology***.
 As of now I'm attending the Post-Graduation classes of ***Enterprise Data Science and Analytics*** and developing some new projects based on these newly acquired knowledge and tools.
 
-##### Currently I code in ***Python***, ***R*** and ***VBA*** (mostly VBA for the last year for business purposes)
+##### Currently I code in ***Python***, ***Spark***, ***R*** and ***VBA***.
 
 ##### During the past months I've learned how to program in ***SQL*** and how to manage Relational and Non-Relational Databases, hoping to add some projects regarding these subjects on here soon.
 
