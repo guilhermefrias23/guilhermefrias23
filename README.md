@@ -1,14 +1,11 @@
 ### Hi all! Great to meet you 😄
 
-##### I'm Guilherme, I'm graduated by the ***Universty of Coimbra*** and in 2020 concluded my ***MSc in Management of Services and Technology***.
-As of now I'm attending the Post-Graduation classes of ***Enterprise Data Science and Analytics*** and developing some new projects based on these newly acquired knowledge and tools.
+##### I'm Guilherme, I'm graduated by the ***Universty of Coimbra***, in 2020 concluded my ***MSc in Management of Services and Technology*** and in 2022 concluded my graduate degree in ***Enterprise Data Science and Analytics***.
 
-##### Currently I code in ***Python***, ***Spark***, ***R*** and ***VBA***.
+##### Currently I code in ***Python***, **SQL**, ***Spark***, ***R*** and ***VBA***.
 
-##### During the past months I've learned how to program in ***SQL*** and how to manage Relational and Non-Relational Databases, hoping to add some projects regarding these subjects on here soon.
-
-#### I've been developing some projects on the Post-Graduation program using Clustering and Supervised algorithms for classification purposes that will be posted here as soon as they are concluded
-
+#### With some experience in Clustering and Supervised learning algorithms, I've deepened my path into the Data Engineering and Cloud Architecture to help organisations make better use of their resources and capabilities.
+#### As of now I'm a Data FinOps Engineer for a major firm in Portugal, and I'm developing some new projects based on the agentic framework. Focusing on quality base work, great visualisation and comprehensibility to other professionals.
 
 ##### Please take a look at some of the projects that I've placed below and feel free to reach my via my [LinkedIn](https://www.linkedin.com/in/guilhermepdfrias/) profile page.
 
